@@ -6,6 +6,12 @@
 - 💬 Ask me about **React , Next.js ,gsap, Frammer motion**
 
 - 📫 How to reach me **shelke.prathamesh0012@gmail.com**
+- currently working on :- https://web03.netlify.app
+- other projects :-
+- scroll animation :- https://roadster-redesign.netlify.app/
+- slider :- https://travelinfoweb.netlify.app
+- hovering animation :- https://planetmain.netlify.app
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
