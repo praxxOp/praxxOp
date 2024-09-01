@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **blockchain technology**
 
-- 💬 Ask me about **React , Next.js ,gsap, Frammer motion**
+- 💬 Ask me about **React , Next.js ,gsap, Framer motion**
 
 - 📫 How to reach me **shelke.prathamesh0012@gmail.com**
 
