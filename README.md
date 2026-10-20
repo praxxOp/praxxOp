@@ -15,7 +15,11 @@ I build things whether or not I know the stack yet. I figure it out.
 - [CookList AI](https://github.com/praxxOp/cooklist-ai): budget-aware meal plans and grocery lists with Gemini.
 
 ## Stack
-Next.js, React, TypeScript, Python, FastAPI, Node.js, PostgreSQL, Gemini (Vertex AI), RAG, LLM tool calling, GCP, Clerk, Framer Motion, GSAP
+- Core: Next.js, React, TypeScript, JavaScript, Node.js, Python, FastAPI
+- AI: OpenRouter, Gemini (Vertex AI), Anthropic and OpenAI SDKs, MCP, LLM tool calling, RAG, prompt engineering
+- Data and infra: PostgreSQL, Supabase, GCP, Clerk, Netlify
+- UI: Tailwind CSS, shadcn/ui, Radix UI, Framer Motion, GSAP, Lenis
+- Also: React Hook Form, Zod, Recharts, Vite, Git, Figma
 
 ## Find me
 [LinkedIn](https://www.linkedin.com/in/prathamesh-shelke/) | shelke.prathamesh0012@gmail.com
