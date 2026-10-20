@@ -11,7 +11,7 @@ I build things whether or not I know the stack yet. I figure it out.
 
 ## Featured projects
 - [Kosh](https://github.com/praxxOp/kosh): AI treasury agent that cannot break the rules. Built at the AgntID Hackathon, Bengaluru.
-- [Saathi AI](https://github.com/praxxOp/calmprep): AI wellness companion with journaling, mood tracking and stress insights.
+- [Saathi AI](https://github.com/praxxOp/saathi-ai): AI wellness companion with journaling, mood tracking and stress insights.
 - [CookList AI](https://github.com/praxxOp/cooklist-ai): budget-aware meal plans and grocery lists with Gemini.
 
 ## Stack
